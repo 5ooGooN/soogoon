@@ -725,9 +725,9 @@ a:focus {
 }
 
 .contact_section {
-  padding-top: 50px;
+  margin-top: 50px;
   position: relative;
-  padding-bottom: 90px;
+  padding-bottom: 50px;
 }
 
 .contact_section .heading_container {
