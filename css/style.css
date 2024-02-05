@@ -106,12 +106,12 @@ a:focus {
           box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.25);
 }
 
-.header_section .header_top {
+.header_section {
   padding: 15px 0;
   background-color: #04233b;
 }
 
-.header_section .header_top .contact_nav {
+.header_section .contact_nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -120,7 +120,7 @@ a:focus {
           justify-content: space-between;
 }
 
-.header_section .header_top .contact_nav a {
+.header_section .contact_nav a {
   color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -128,7 +128,7 @@ a:focus {
   font-size: 15px;
 }
 
-.header_section .header_top .contact_nav a i {
+.header_section .contact_nav a i {
   margin-right: 5px;
   border-radius: 100%;
   background-color: #ffffff;
@@ -146,7 +146,7 @@ a:focus {
   color: #0a97b0;
 }
 
-.header_section .header_top .contact_nav a:hover i {
+.header_section .contact_nav a:hover i {
   color: #04233b;
 }
 
